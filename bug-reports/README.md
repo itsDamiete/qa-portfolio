@@ -10,7 +10,7 @@ This folder contains sample bug reports written by **Damiete Amachree**, a manua
 
 | File | App Tested | Platform | Type |
 |---|---|---|---|
-| `sample-bug-report.md` | FlexGaming | Web | Exploratory |
+| `bug-report-flexgaming-plp-add-to-cart.md` | FlexGaming | Web | Exploratory |
 | *(more coming soon)* | | | |
 
 ---
