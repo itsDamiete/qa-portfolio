@@ -1,10 +1,10 @@
-# Bug Report — FlexGaming Web Platform
+# Bug Report — Gaming Retail Web Platform
 
 **Bug ID:** BUG-001
 **Date:** 02 December 2023
 **Tester:** Damiete Amachree
-**Product:** FlexGaming (FlexShopper)
-**Build:** 1.111723
+**Product:** Gaming retail web platform *(name withheld — NDA)*
+**Build:** [redacted]
 **Platform:** Desktop Web
 **Test Type:** Exploratory
 
@@ -37,17 +37,17 @@ Every Time (100% reproducible)
 | **OS** | Windows 10 Pro |
 | **Browser** | Google Chrome (latest) |
 | **Device** | Desktop PC |
-| **URL** | https://mcstaging.gamerex.co/ |
+| **URL** | [redacted — NDA] |
 
 ---
 
 ## Preconditions
-- User is logged in to the FlexGaming platform
+- User is logged in to the platform
 
 ---
 
 ## Steps to Reproduce
-1. Navigate to the testing website: https://mcstaging.gamerex.co/
+1. Navigate to the platform's homepage
 2. Hover over the hamburger menu
 3. Click on **"Gaming Laptop"** from the dropdown menu
 4. Scroll down to the first product on the Product Listing Page (PLP)
@@ -67,7 +67,7 @@ The pop-up window reappears every time the user clicks "Add to Cart" — creatin
 ---
 
 ## Impact
-This is a checkout-blocking bug on the Product Listing Page. Users are completely unable to add products to their cart through the standard PLP flow, which directly prevents purchases and impacts revenue. Any user attempting to shop via the Gaming Laptop category will hit this issue on every attempt.
+This is a checkout-blocking bug on the Product Listing Page. Users are completely unable to add products to their cart through the standard PLP flow, which directly prevents purchases and impacts revenue. Any user attempting to shop via the Gaming Laptop category will encounter this issue on every attempt.
 
 ---
 
@@ -77,4 +77,4 @@ This is a checkout-blocking bug on the Product Listing Page. Users are completel
 
 ---
 
-> 📝 *This bug report is based on a real approved submission from a professional test cycle on uTest. Client-specific credentials and internal data have been removed in accordance with NDA obligations. The documentation format, structure, and write-up are my own work.*
+> 📝 *This bug report is based on a real approved submission from a professional test cycle. Client and product identities, internal URLs, and build details have been redacted in compliance with NDA obligations. The documentation format, structure, and write-up are entirely my own work.*
